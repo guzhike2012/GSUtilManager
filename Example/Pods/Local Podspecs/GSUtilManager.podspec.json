@@ -1,0 +1,22 @@
+{
+  "name": "GSUtilManager",
+  "version": "0.1.0",
+  "summary": "A short description of GSUtilManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/GSUtilManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ryoma Echizen": "65214417@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/GSUtilManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GSUtilManager/Classes/**/*"
+}

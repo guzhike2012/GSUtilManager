@@ -1,0 +1,6 @@
+framework module Pods_GSUtilManager_Tests {
+  umbrella header "Pods-GSUtilManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

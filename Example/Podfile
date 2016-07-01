@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GSUtilManager_Example' do
+  pod 'GSUtilManager', :path => '../'
+
+  target 'GSUtilManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

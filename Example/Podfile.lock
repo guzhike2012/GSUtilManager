@@ -1,0 +1,16 @@
+PODS:
+  - GSUtilManager (0.1.0)
+
+DEPENDENCIES:
+  - GSUtilManager (from `../`)
+
+EXTERNAL SOURCES:
+  GSUtilManager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GSUtilManager: 51d6d99eb6cfb47597830d55231692e5e181b925
+
+PODFILE CHECKSUM: d1f2ba0885c17a7a9ce94845f1dee78bb55507a2
+
+COCOAPODS: 1.0.0

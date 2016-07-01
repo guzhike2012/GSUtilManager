@@ -1,0 +1,6 @@
+framework module GSUtilManager {
+  umbrella header "GSUtilManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
